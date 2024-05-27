@@ -4,3 +4,11 @@ html{
     font-size: larger;
     font-weight: bold;
 }
+
+.info{
+    color: brown;
+}
+
+#special{
+    font-size: larger;
+}

@@ -12,3 +12,43 @@ html{
 #special{
     font-size: larger;
 }
+
+.ex1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14pt;
+    font-weight: 200;
+    font-style: italic;
+    text-align: center;
+}
+
+.ex2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blueviolet;
+    text-align: end;
+}
+
+.ex3{
+   font-size: xx-small; 
+}
+
+.ex3:hover{
+    font-size: xx-large; 
+    cursor: pointer;
+    
+ }
+
+.ex4{
+    color: red;
+}
+
+.ex4 a{
+    font-style: italic;
+    color: yellow;
+    text-decoration: double;
+}
+
+.ex4 a:hover{
+    font-style: italic;
+    color: rgb(255, 0, 255);
+    text-decoration: double;
+}
